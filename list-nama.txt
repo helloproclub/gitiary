@@ -5,7 +5,6 @@ Ma'isy Yazid Imaaduddin, DevOps Engineer
 Hanvito Michael Lee, SE
 Aryya Bagus Padmanawijaya, ML Engineer
 Aktsarrizqy Murad Mahraputra, Game Tester
-<<<<<<< HEAD
 Airlangga Permana Putra, Software Enginee
 Ahmad Faris Hisyam Maulana, Software Engineer
 Faiz Rofi Hencya, Mobile Developer
@@ -18,9 +17,4 @@ I Wayan Adi Wahyudi, Data Scientist
 Kadek Rizky Fransisca Putra
 I Kadek Rizky Dwitama Widiasa, Software Engineer
 Rifqi AUlia Rahman, CEO Startup
-=======
-Ahmad Faris Hisyam Maulana, Software Engineer
-Faiz Rofi Hencya, Mobile Developer
-Nurul Qofifah Audyningrum, Front-End Engineer
-Akbar Sirajuddin H, Machine Learning Engineer
->>>>>>> 8eb2a428078b134d7c76c599be8e08bf3ada8805
+
