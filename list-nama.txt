@@ -16,6 +16,7 @@ Muhammad Aryuska Pradana, Software engineer
 I Wayan Adi Wahyudi, Data Scientist
 I Kadek Rizky Dwitama Widiasa, Software Engineer
 Rifqi AUlia Rahman, CEO Startup
+Priyan Fadhil Supriyadi, Software Engineer
 Kadek Rizky Fransisca Putra, Software Engineer
 Rayhan Risq Arya Brinanta, Software Engineer
 Hidayat Taufiqur Rahmah Achmad, Software Engineer
@@ -24,3 +25,4 @@ Moza Sajidah Putri Al Muzaffar, Software Engineer & Data Scientist
 Myra T Karimah, Game Dev & Software Engineer
 Egi Nawwar Sukma, Data Scientist
 Rifky Aulia Putra Purwanto, Software Engineer
+
